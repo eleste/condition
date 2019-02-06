@@ -37,4 +37,4 @@ title:  "md command2"
 
 2. 로컬파일 첨부
 
-   ![localhack](/img/hack1)
+   ![localhack](/img/hack1.jpg)
