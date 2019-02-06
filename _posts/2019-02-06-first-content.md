@@ -1,6 +1,6 @@
 ---
-layout:post
-title:"MD명령어(1)"
+layout: post
+title: "MD-command"
 ---
 
 
@@ -25,4 +25,3 @@ print "zzzzz"
 *_: 기울기* , _*: 기울기_
 
 ==형광펜==
-
