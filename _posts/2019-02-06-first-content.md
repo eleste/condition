@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "MD-command"
+title:  "md command"
+date:   2019-02-06 
+categories: contents
+author: "condition"
 ---
-
-
-
 ## Test code
 
 ```
 ​``` : 코드블록만들기
 ```
 
-~~~python
-​~~~ : 물결로도 만들수 있음
+```python
+~~~ : 물결로도 만들수 있음
 print "zzzzz"
-~~~
+```
 
----
+------
 
 --- : 수평선
 
@@ -25,3 +25,4 @@ print "zzzzz"
 *_: 기울기* , _*: 기울기_
 
 ==형광펜==
+
